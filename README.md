@@ -2,4 +2,4 @@
 Program za igranje vislic pri predmetu Uvod v programiranje.
 
 # Avtor
-Avtor tega repozitorija je Stas Ahtik.
+Avtor tega repozitorija je Staš Ahtik.
